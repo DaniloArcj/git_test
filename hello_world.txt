@@ -1,3 +1,5 @@
 I'm just typing some text here because I'm trying to learn how to use git.
 Now I'm modifying this file so that I can put it in the staging area and then make a new commit.
 Let's see what happens!
+------
+OK, that worked just fine. Now I'm editing this again because I want to test if I can write my commit messages in Vscode. I hope this works because it'll be a lot easier to write my commit's message here instead of the terminal.
